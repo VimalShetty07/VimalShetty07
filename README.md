@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vimal Shetty</h1>
 <p align="left"> <a href="https://twitter.com/shetty_vimal" target="blank"><img src="https://img.shields.io/twitter/follow/shetty_vimal?logo=twitter&style=for-the-badge" alt="shetty_vimal" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://vimalshetty07.github.io/VimalShetty/home.html](https://vimalshetty07.github.io/VimalShetty/home.html)
 
