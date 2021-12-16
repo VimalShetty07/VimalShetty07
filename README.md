@@ -3,11 +3,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://vimalshetty07.github.io/VimalShetty/home.html](https://vimalshetty07.github.io/VimalShetty/home.html)
+- 👨‍💻 All of my projects are available at [https://zen-wilson-c719bc.netlify.app/work](https://zen-wilson-c719bc.netlify.app/work)
 
 - 📫 How to reach me **shettyvimal07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u2_aJ77_Ja2EMEoPYuGIO14yKOlJGUoT/view?usp=sharing](https://drive.google.com/file/d/1u2_aJ77_Ja2EMEoPYuGIO14yKOlJGUoT/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/3mc5oRx](https://bit.ly/3mc5oRx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
