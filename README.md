@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shettyvimal07@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3mc5oRx](https://bit.ly/3mc5oRx)
+- 📄 Know about my experiences [https://bit.ly/3ODglHr](https://bit.ly/3ODglHr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
